@@ -10,7 +10,7 @@ This script installs that build automatically.
 ## Credits
 
 Unofficial Signal Desktop ARM64 build
-https://github.com/dennisameling/Signal-Desktop
+https://github.com/dennisameling/Signal-Desktop/releases
 
 Install script
 https://raw.githubusercontent.com/wobbo/install-signal/main/install-signal.sh
