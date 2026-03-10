@@ -13,7 +13,7 @@ Unofficial Signal Desktop ARM64 build
 https://github.com/dennisameling/Signal-Desktop
 
 Install script
-https://github.com/wobbo/install-signal
+https://raw.githubusercontent.com/wobbo/install-signal/main/install-signal.sh
 
 ## Install
 
