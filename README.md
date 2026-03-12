@@ -2,8 +2,15 @@
 
 Install **Signal Desktop on Raspberry Pi OS** using an unofficial ARM64 build.
 
-Signal is a privacy-focused messaging app and a popular alternative to WhatsApp.
-Signal Desktop is normally not available for ARM devices like the Raspberry Pi, but an unofficial ARM64 build exists.
+This script installs the unofficial Signal Desktop ARM64 build
+maintained by Dennis Ameling:
+https://github.com/dennisameling/Signal-Desktop
+
+This repository only provides the installation script.
+
+Tested on Raspberry Pi OS GNOME,
+but it should also work on other ARM64 GNOME
+Debian-based systems.
 
 This script installs that build automatically.
 
