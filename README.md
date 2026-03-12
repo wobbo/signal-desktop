@@ -64,7 +64,7 @@ https://github.com/dennisameling/Signal-Desktop/releases
 
 Full explanation and discussion:
 
-* https://forums.raspberrypi.com/viewtopic.php?p=2313410#p2313410
+* [https://forums.raspberrypi.com/viewtopic.php?p=2313410](https://forums.raspberrypi.com/viewtopic.php?p=2313410#p2313410)
 * https://wobbo.org/install/2026-03-10/install-signal_8.2.0.sh
 
 ---
