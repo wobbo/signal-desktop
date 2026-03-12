@@ -1,11 +1,11 @@
-# install-signal
+# install-signal.sh
 
-Install script for Signal Desktop on ARM64 GNOME systems. This script installs the *unofficial* Signal Desktop ARM64 build maintained by Dennis Ameling: https://github.com/dennisameling/Signal-Desktop
+Install script for Signal Desktop on ARM64 GNOME systems. This script installs the *unofficial* Signal Desktop ARM64 build maintained by Dennis Ameling: [https://github.com/dennisameling/signal-desktop](https://github.com/dennisameling/Signal-Desktop/releases)
 
 This repository only provides the installation script. Tested on Raspberry Pi OS GNOME, but it should also work on other ARM64 GNOME Debian-based systems.
 
 ```bash
-wget https://raw.githubusercontent.com/wobbo/install-signal/main/install-signal.sh
+wget -O install-signal.sh https://raw.githubusercontent.com/wobbo/signal-desktop/main/install-signal.sh
 chmod +x install-signal.sh
 ./install-signal.sh
 ```
@@ -21,7 +21,7 @@ The screenshot below shows the GNOME launcher icon issue with the unofficial Sig
 ## Install (specific version)
 
 If you want to install a specific Signal version, use the corresponding script
-*install-signal_<version>.sh*, for example:
+*install-signal_\<version\>.sh*, for example:
 [install-signal_8.2.0.sh](https://wobbo.org/install/2026-03-10/install-signal_8.2.0.sh)
 
 ```bash
@@ -40,23 +40,14 @@ The wobbo.org server checks whether the corresponding Signal release exists befo
 * GNOME desktop environment
 * Signal installed on your phone
 
-Signal Desktop links to your phone using a QR code.
-
----
-
-## Updates
-
-The *unofficial* ARM build does **not update automatically**. Check for new releases here:
-https://github.com/dennisameling/Signal-Desktop/releases
-
 ---
 
 ## Credits
 
 * *Unofficial* Signal Desktop ARM64 build
-  https://github.com/dennisameling/Signal-Desktop
+  [https://github.com/dennisameling/Signal-Desktop](https://github.com/dennisameling/Signal-Desktop/releases)
 * Install script
-  https://github.com/wobbo/install-signal
+  https://github.com/wobbo/signal-desktop
 
 ---
 
