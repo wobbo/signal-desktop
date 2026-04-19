@@ -5,7 +5,7 @@ Install script for Signal Desktop on ARM64 GNOME systems. This script installs t
 This repository only provides the installation script. Tested on Raspberry Pi OS GNOME, but it should also work on other ARM64 GNOME Debian-based systems. Updates: https://github.com/wobbo/signal-desktop/releases
 
 ```bash
-wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.6.0.sh'
+wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.7.0.sh'
 chmod +x install-signal.sh
 ./install-signal.sh
 ```
