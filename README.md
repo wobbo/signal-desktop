@@ -56,7 +56,7 @@ The wobbo.org server checks whether the corresponding Signal release exists befo
 Full explanation and discussion:
 
 * [https://forums.raspberrypi.com/viewtopic.php?p=2313410](https://forums.raspberrypi.com/viewtopic.php?p=2313410#p2313410)
-* https://wobbo.org/install/2026-03-10/install-signal_8.6.0.sh
+* https://wobbo.org/install/2026-03-10/install-signal_8.8.0.sh
 
 ---
 
