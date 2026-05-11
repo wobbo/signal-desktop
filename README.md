@@ -41,6 +41,8 @@ The wobbo.org server checks whether the corresponding Signal release exists befo
 * GNOME desktop environment
 * Signal installed on your phone
 
+![Raspberry Pi OS](https://wobbo.org/screenshots/2025-05-21_Signal_mini_002.webp)
+
 ---
 
 ## Credits
