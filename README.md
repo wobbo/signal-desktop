@@ -22,10 +22,10 @@ The screenshot below shows the GNOME launcher icon issue with the unofficial Sig
 
 If you want to install a specific Signal version, use the corresponding script
 *install-signal_\<version\>.sh*, for example:
-[install-signal_8.9.0.sh](https://wobbo.org/install/2026-03-10/install-signal_8.9.0.sh)
+[install-signal_8.9.1.sh](https://wobbo.org/install/2026-03-10/install-signal_8.9.1.sh)
 
 ```bash
-wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.9.0.sh'
+wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.9.1.sh'
 chmod +x install-signal.sh
 ./install-signal.sh
 ```
@@ -56,7 +56,7 @@ The wobbo.org server checks whether the corresponding Signal release exists befo
 Full explanation and discussion:
 
 * [https://forums.raspberrypi.com/viewtopic.php?p=2313410](https://forums.raspberrypi.com/viewtopic.php?p=2313410#p2313410)
-* https://wobbo.org/install/2026-03-10/install-signal_8.9.0.sh
+* https://wobbo.org/install/2026-03-10/install-signal_8.9.1.sh
 
 ---
 
