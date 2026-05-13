@@ -5,7 +5,7 @@ Install script for Signal Desktop on ARM64 GNOME systems. This script installs t
 This repository only provides the installation script. Tested on [Raspberry Pi OS GNOME](https://forums.raspberrypi.com/viewtopic.php?p=2313410#p2313410), but it should also work on other ARM64 GNOME Debian-based systems. Updates: https://github.com/wobbo/signal-desktop/releases
 
 ```bash
-wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.9.1.sh'
+wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.10.0.sh'
 chmod +x install-signal.sh
 ./install-signal.sh
 ```
@@ -23,10 +23,10 @@ The screenshot below shows the GNOME launcher icon issue with the unofficial Sig
 
 If you want to install a specific Signal version, use the corresponding script
 *install-signal_\<version\>.sh*, for example:
-[install-signal_8.9.1.sh](https://wobbo.org/install/2026-03-10/install-signal_8.9.1.sh)
+[install-signal_8.10.0.sh](https://wobbo.org/install/2026-03-10/install-signal_8.10.0.sh)
 
 ```bash
-wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.9.1.sh'
+wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.10.0.sh'
 chmod +x install-signal.sh
 ./install-signal.sh
 ```
@@ -59,7 +59,7 @@ The wobbo.org server checks whether the corresponding Signal release exists befo
 Full explanation and discussion:
 
 * [https://forums.raspberrypi.com/viewtopic.php?p=2313410](https://forums.raspberrypi.com/viewtopic.php?p=2313410#p2313410)
-* https://wobbo.org/install/2026-03-10/install-signal_8.9.1.sh
+* https://wobbo.org/install/2026-03-10/install-signal_8.10.0.sh
 
 ---
 
