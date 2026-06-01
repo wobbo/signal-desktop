@@ -23,7 +23,7 @@ The screenshot below shows the GNOME launcher icon issue with the unofficial Sig
 
 If you want to install a specific Signal version, use the corresponding script
 *install-signal_\<version\>.sh*, for example:
-[install-signal_8.11.0.sh](https://wobbo.org/install/2026-03-10/install-signal_8.11.0.sh)
+[install-signal_6.5.0.sh](https://wobbo.org/install/2026-03-10/install-signal_6.5.0.sh)
 
 ```bash
 wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.11.0.sh'
