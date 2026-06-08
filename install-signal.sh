@@ -16,7 +16,7 @@ set -e
 # chmod +x install-signal.sh
 # ./install-signal.sh
 
-SIGNAL_VERSION='8.9.1'
+SIGNAL_VERSION='8.13.0'
 DEB="/tmp/signal-desktop-unofficial_${SIGNAL_VERSION}_arm64.deb"
 URL="https://github.com/dennisameling/Signal-Desktop/releases/download/v${SIGNAL_VERSION}/signal-desktop-unofficial_${SIGNAL_VERSION}_arm64.deb"
 
