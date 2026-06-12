@@ -9,7 +9,6 @@ set -e
 # Signal Desktop unofficial ARM build:
 # Dennis Ameling
 # https://github.com/dennisameling/Signal-Desktop
-# https://github.com/dennisameling/Signal-Desktop/releases/download/v8.9.1/signal-desktop-unofficial_8.9.1_arm64.deb
 #
 # Install:
 # wget -O install-signal.sh 'https://wobbo.org/install/2026-03-10/install-signal_8.14.0.sh'
