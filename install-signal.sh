@@ -4,20 +4,20 @@ set -e
 # Install Signal Desktop (unofficial build) on Raspberry Pi OS GNOME (Wayland)
 #
 # Script: Ernst Lanser
-# https://wobbo.org/install/2026-06-12/install-signal_8.14.0.sh
-# Last updated: 11-06-2026 08:05
+# https://wobbo.org/install/2026-06-12/install-signal_8.21.0.sh
+# Last updated: 30-07-2026 16:36
 #
 # Signal Desktop unofficial ARM build:
 # Dennis Ameling
 # https://github.com/dennisameling/Signal-Desktop
-# https://github.com/dennisameling/Signal-Desktop/releases/download/v8.14.0/signal-desktop-unofficial_8.14.0_arm64.deb
+# https://github.com/dennisameling/Signal-Desktop/releases/download/v8.21.0/signal-desktop-unofficial_8.21.0_arm64.deb
 #
 # Install:
-# wget -O install-signal.sh 'https://wobbo.org/install/2026-06-12/install-signal_8.14.0.sh'
+# wget -O install-signal.sh 'https://wobbo.org/install/2026-06-12/install-signal_8.21.0.sh'
 # chmod +x install-signal.sh
 # ./install-signal.sh
 
-SIGNAL_VERSION='8.14.0'
+SIGNAL_VERSION='8.21.0'
 SIGNAL_WMCLASS='signal.desktop.unofficial'
 SIGNAL_ICON='signal-desktop'
 
